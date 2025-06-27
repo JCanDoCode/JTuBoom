@@ -8,5 +8,7 @@ JTuBoom is a play on words for YouTube, since this project revolves around uploa
 npm create vite@latest
 
 **Run locally with**
+
 npm install
+
 npm run dev
